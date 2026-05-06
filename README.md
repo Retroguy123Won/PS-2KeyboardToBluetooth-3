@@ -1,2 +1,3 @@
-# PS-2KeyboardToBluetooth-3
-Welcome to my useful and super Amazing Project by Me
+# PS/2 Keyboard to Bluetooth
+Welcome to my respiratory amazing made by me and fixed the code
+
